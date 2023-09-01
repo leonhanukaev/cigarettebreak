@@ -15,6 +15,9 @@ A Python timer for setting work hours and cigarette breaks (inspired by the toma
     notify_me: Another function from the original code, which has been replaced by the notify function.)
 -
     all the functions in the provided code, including main, are defined at the same indentation level. None of them are nested under any classes or functions. They are all defined at the top level of the module.
+
+the script does not require any additional external libraries or packages. It relies on standard Python libraries and modules such as sys, time, and subprocess.
     
-<img width="686" alt="Screenshot 2023-09-01 at 12 53 43" src="https://github.com/leonhanukaev/cigarettebreak/assets/142434941/3de84727-b5e2-4dc0-b0d6-f385f0ebde06">
-<img width="1440" alt="Screenshot 2023-09-01 at 12 50 40" src="https://github.com/leonhanukaev/cigarettebreak/assets/142434941/cc3b1d6b-7587-4cca-9492-858858f8ade6">
+
+
+<img width="751" alt="Screenshot 2023-09-01 at 13 36 09" src="https://github.com/leonhanukaev/cigarettebreak/assets/142434941/2fb9c21d-3d75-47a8-967c-d49bcc28b02d">
