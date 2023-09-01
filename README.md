@@ -21,3 +21,6 @@ the script does not require any additional external libraries or packages. It re
 
 
 <img width="751" alt="Screenshot 2023-09-01 at 13 36 09" src="https://github.com/leonhanukaev/cigarettebreak/assets/142434941/2fb9c21d-3d75-47a8-967c-d49bcc28b02d">
+
+
+9/1 - the script does not loop and needs to be reset manually (working on a loop feature)
