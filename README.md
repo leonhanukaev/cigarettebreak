@@ -24,3 +24,6 @@ the script does not require any additional external libraries or packages. It re
 
 
 9/1 - the script does not loop and needs to be reset manually (working on a loop feature)
+
+working on the bar
+<img width="751" alt="Screenshot 2023-09-01 at 14 00 03" src="https://github.com/leonhanukaev/cigarettebreak/assets/142434941/6282db30-a09e-4fa4-8d25-449be8bc8cf9">
